@@ -6,12 +6,12 @@ verse_3.txt
 
 verse_4.txt
 
-chorus_1.txt
+chorus.txt
 
 verse_5.txt
 
-chorus_2.txt
+chorus.txt
 
 verse_6.txt
 
-chorus_3.txt
+chorus.txt
