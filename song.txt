@@ -10,10 +10,7 @@ chorus_1.txt
 
 verse_5.txt
 
-The boys of the NYPD choir
-Still singing Galway Bay
-And the bells are ringing out
-For Christmas day
+chorus_2.txt
 
 I could have been someone
 Well so could anyone
