@@ -6,10 +6,7 @@ verse_3.txt
 
 verse_4.txt
 
-The boys of the NYPD choir
-Were singing Galway Bay
-And the bells were ringing out
-For Christmas day
+chorus_1.txt
 
 You're a bum
 You're a punk
