@@ -8,14 +8,7 @@ verse_4.txt
 
 chorus_1.txt
 
-You're a bum
-You're a punk
-You're an old slut on junk
-Lying there almost dead on a drip in that bed
-You scumbag, you maggot
-You cheap lousy faggot
-Happy Christmas your arse
-I pray God it's our last
+verse_5.txt
 
 The boys of the NYPD choir
 Still singing Galway Bay
