@@ -12,14 +12,7 @@ verse_5.txt
 
 chorus_2.txt
 
-I could have been someone
-Well so could anyone
-You took my dreams from me
-When I first found you
-I kept them with me babe
-I put them with my own
-Can't make it all alone
-I've built my dreams around you
+verse_6.txt
 
 The boys of the NYPD choir
 Still singing Galway Bay
