@@ -1,13 +1,6 @@
 verse_1.txt
 
-Got on a lucky one
-Came in eighteen to one
-I've got a feeling
-This year's for me and you
-So happy Christmas
-I love you baby
-I can see a better time
-When all our dreams come true
+verse_2.txt
 
 They've got cars big as bars
 They've got rivers of gold
